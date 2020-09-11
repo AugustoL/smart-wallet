@@ -51,7 +51,7 @@
     "eslint-plugin-standard": "^3.1.0",
     "ganache-cli": "^6.7.0",
     "jest": "^24.9.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "npm-watch": "^0.6.0"
   },
   "dependencies": {
